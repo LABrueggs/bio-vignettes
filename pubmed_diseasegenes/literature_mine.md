@@ -121,4 +121,4 @@ As you can see, the GO terms enriched in our top 100 genes certainly have values
 
 ### Thanks for reading!
 
-### Leo Brueggeman (\[@LeoBman\](<https://twitter.com/LeoBman>))
+### Leo Brueggeman \[@LeoBman\](<https://twitter.com/LeoBman>)

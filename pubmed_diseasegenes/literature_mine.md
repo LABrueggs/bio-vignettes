@@ -116,3 +116,9 @@ dotplot(gset)
 ```
 
 ![](literature_mine_files/figure-markdown_github/unnamed-chunk-4-1.png)
+
+As you can see, the GO terms enriched in our top 100 genes certainly have values we would expect given we are interested in the epilepsy phenotype. This approach can be easily adopted for any trait or disease.
+
+### Thanks for reading!
+
+### Leo Brueggeman (@LeoBman)
